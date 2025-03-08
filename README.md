@@ -3,7 +3,6 @@
 ## 🚀 About Me  
 I'm a **Computer Science Engineering student at IIIT Kota** with a passion for **Machine Learning, Deep Learning, and Web Development**. I love solving problems and building projects that make an impact.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -12,10 +11,6 @@ I'm a **Computer Science Engineering student at IIIT Kota** with a passion for *
 
 ### Machine Learning 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 ### Frontend Developement
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
