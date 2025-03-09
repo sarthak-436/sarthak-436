@@ -1,7 +1,5 @@
 <!-- Cover Photo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarthak-436/sarthak-436/main/cover.png" alt="Cover Image" width="100%" />
-</p>
+![Cover Image](https://github.com/sarthak-436/sarthak-436/blob/main/cover_github.gif)
 
  # Hello and Welcome !✨
 
