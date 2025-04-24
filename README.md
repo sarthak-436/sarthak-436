@@ -7,7 +7,6 @@ I'm a Computer Science Engineering student with a strong passion for **Machine L
 
 + 🎓 Currently pursuing B.Tech in CSE at IIIT Kota
 + 🏆 Smart India Hackathon 2024 Grand Finalist – Ranked among the top 6 teams nationwide for our innovative solution in Problem Statement 1640
-+ 📊 Currently exploring Computer Vision
 + Email Me : <a href="mailto:your-email@example.com">sarthak0436@gmail.com</a>
 
 ## 🛠️ Tech Stack
